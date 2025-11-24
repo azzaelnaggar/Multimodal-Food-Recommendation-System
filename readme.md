@@ -6,7 +6,8 @@ A powerful multimodal food recommendation system that leverages vector embedding
 
 This application demonstrates **multimodal vector search** by combining text and image embeddings to create an intelligent food discovery system. Users can search for food items using natural language queries or by uploading images.
 
-###  ->->
+###  based on
+->->   https://learn.deeplearning.ai/courses/building-multimodal-search-and-rag/lesson/dh7lr/multimodal-recommender-system
 Practical implementation based on **"Building Multimodal Search and RAG"** course by **DeepLearning.AI** and **Andrew Ng**.
 
 ###  Development Notes
