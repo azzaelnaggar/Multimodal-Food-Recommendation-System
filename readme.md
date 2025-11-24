@@ -64,8 +64,7 @@ Practical implementation based on **"Building Multimodal Search and RAG"** cours
 ```
 # Output
 at assets folder 
-![UI Preview](./assets/Project.gif)
-
+![Demo Preview](./assets/demo.gif)
 ##  Prerequisites
 
 ### Required Software
