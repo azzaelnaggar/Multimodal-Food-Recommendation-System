@@ -184,7 +184,7 @@ curl http://localhost:8081/.well-known/ready
 
 ---
 
-## 📝 Performance Metrics
+###  Performance Metrics
 
 | Metric | Value |
 |--------|-------|
@@ -193,7 +193,15 @@ curl http://localhost:8081/.well-known/ready
 | Memory usage | ~2GB |
 | Vector indexing (20 items) | ~30 seconds |
 
+### Accuracy Metrics
+
+| Search Type | Top-1 Accuracy | Top-3 Accuracy |
+|-------------|---------------|----------------|
+| Text Search |      ~85%     |     ~95%       |
+| Image Search |     ~75%     |     ~90%       |
+
 ---
+
 ### Technologies
 - **Weaviate** - Vector database platform
 - **Cohere** - Text embedding API
