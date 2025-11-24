@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "description": "Classic Italian pizza with tomato, mozzarella, and basil.",
+    "calories": 300,
+    "price": 8.5,
+    "image_path": "images/margherita.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Spaghetti Carbonara",
+    "description": "Creamy pasta with pancetta, egg, and parmesan cheese.",
+    "calories": 450,
+    "price": 12.0,
+    "image_path": "images/carbonara.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Caesar Salad",
+    "description": "Fresh salad with romaine, croutons, parmesan, and Caesar dressing.",
+    "calories": 250,
+    "price": 7.5,
+    "image_path": "images/caesar.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Cheeseburger",
+    "description": "Juicy beef patty with cheese, lettuce, tomato, and onion in a bun.",
+    "calories": 550,
+    "price": 9.0,
+    "image_path": "images/cheeseburger.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sushi Platter",
+    "description": "Assorted fresh sushi including nigiri and rolls.",
+    "calories": 400,
+    "price": 15.0,
+    "image_path": "images/sushi.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Chocolate Cake",
+    "description": "Rich chocolate cake with chocolate frosting.",
+    "calories": 450,
+    "price": 6.0,
+    "image_path": "images/chocolate_cake.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Pad Thai",
+    "description": "Thai stir-fried rice noodles with shrimp, peanuts, and vegetables.",
+    "calories": 500,
+    "price": 11.0,
+    "image_path": "images/pad_thai.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Parfait",
+    "description": "Layered dessert with yogurt, granola, and fresh fruits.",
+    "calories": 200,
+    "price": 5.0,
+    "image_path": "images/parfait.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tacos",
+    "description": "Soft tortillas filled with seasoned meat, vegetables, and salsa.",
+    "calories": 350,
+    "price": 7.5,
+    "image_path": "images/tacos.jpg"
+  },
+  {
+    "id": 10,
+    "name": "French Fries",
+    "description": "Crispy golden fries served with ketchup.",
+    "calories": 300,
+    "price": 3.5,
+    "image_path": "images/fries.jpg"
+  }
+]
