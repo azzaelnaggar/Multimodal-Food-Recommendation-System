@@ -63,6 +63,7 @@ Practical implementation based on **"Building Multimodal Search and RAG"** cours
     └─────────────────────┘  └──────────────────────┘
 ```
 # Output
+
 ![UI Preview](./assets/Project.gif)
 
 ##  Prerequisites
